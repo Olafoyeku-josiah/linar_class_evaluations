@@ -54,7 +54,7 @@ print(f'thats all for even number evaluation')"""
 print(f'this shows even number from 2 to 1000')
 even_number=2
 print(f'the first even value is {even_number}')
-while even_number<1000:
+while even_number<100:
     print(f'another even number is {even_number+2}')
     even_number+=2
 print(f'thats all for even number evaluation')

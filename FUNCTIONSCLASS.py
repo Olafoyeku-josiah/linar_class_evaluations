@@ -13,4 +13,3 @@ def age_calculator(name,pyear,byear):
 
 age_calculator('emmag',2023,2006)
 age_calculator(name = input("Whats your name:\n"), pyear = input("Whats the present year"), byear = input("Whats your year of birth"))
-
