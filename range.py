@@ -1,5 +1,6 @@
-#for value in range(1,100,1):
-#       print(value)
+#this code prints numbers from 1 to 100 with a step of 1 using the for loop 
+for value in range(1,100,1):
+      print(value)
 
 """sum=0
 for value in range(1,51):
@@ -37,20 +38,24 @@ while True:
         print("*")
     print()"""
 
-"""def sum(n):
+def sum(n):
    s=0
    for i in range(1,n+1):
         for j in range(i,i+1):
             s+=j
-   return s"""
-"""print(f'even number from 1000 to 0')
+   return s
+
+#this code print numbers from 1000 to zero in a descending order using the while loop 
+print(f'even number from 1000 to 0')
 even_number=1000
 print(f'the first value is {even_number}')
 while even_number>0:
     print(f'another even number is {even_number-2}')
     even_number-=2
-print(f'thats all for even number evaluation')"""
+print(f'thats all for even number evaluation')
 
+
+#a code to print even numbers from 2 to 100 using the while loop
 print(f'this shows even number from 2 to 1000')
 even_number=2
 print(f'the first even value is {even_number}')
