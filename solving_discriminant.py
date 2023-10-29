@@ -1,3 +1,4 @@
+"""This code calculates value of a discriminant after accepting inputs for discriminant value a,b and c from the user"""
 #solving discriminant b^2-4ac:
 discriminant_value1=int(input("enter the value of first discriminant value b:"))
 discriminant_value2=int(input("enter the value of first discriminant value a:"))

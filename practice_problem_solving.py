@@ -1,3 +1,4 @@
+"""This code calculates the area of a circle by accepting the radius of the circle as integer"""
 radius=int(input("enter value for radius r:"))
 pi_value="3.142"
 new_pi_value=float(pi_value)
